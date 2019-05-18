@@ -1,0 +1,148 @@
+.vertcent{
+  padding-top: 45px;
+}
+
+#top-content{
+  padding: 2% ;
+  margin-top: 40px;
+  background-color: #fafafa;
+}
+
+#mid-content{
+  padding: 5% ;
+  margin-top: 0;
+  background-color: #fafafa;
+}
+
+#bottom-content{
+  padding: 5% ;
+  margin-top: 0;
+  background-color: #474f86;
+}
+
+#deep-bottom-content{
+  padding:10%;
+  margin-top: 8px;
+  background-color: #fafafa;
+}
+
+.space1{
+  margin-top:30px;
+}
+
+.space2{
+  margin-top:50px;
+}
+
+.InsideBlue{
+  color:#e3e3e3;
+}
+
+.InsideBlue2{
+  color:#929aab;
+}
+
+#pic1{
+  width: 16.33%;
+  height:auto;
+  margin-top: 5%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+#pic2{
+  display: block;
+  width:45%;
+  height:auto;
+  margin-left: 5px;
+}
+
+#pic3{
+  width:100%;
+  height:auto;
+  border-radius: 60px;
+}
+
+#pic4{
+  width:100%;
+  height:auto;
+  border-radius: 60px;
+}
+
+.jumbotron{
+  padding-top: 2em;
+  padding-bottom: 0;
+}
+
+
+p{
+    padding: 35px;
+    font-size: 1em;
+    color: #474f85;
+    line-height: 2;
+}
+
+#B{
+  height:50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+
+h1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5em;
+  font-style: italic;
+  padding:10px;
+  color: #5588a3;
+}
+
+#header{
+  color:#f6f6e9;
+}
+
+h3{
+  font-style: normal;
+  font-size: 1.5em;
+  font-family: 'Roboto Slab', serif;
+  color: #145374;
+  margin-bottom: 50px;
+}
+
+#end-head{
+  font-style: normal;
+  font-size: 1em;
+  font-family: 'Roboto Slab', serif;
+  color: #145374;
+  margin-bottom: 50px;
+}
+
+#end-cont{
+    font-size: 1em;
+    color: #474f85;
+    line-height: 2;
+}
+
+.propic{
+  border-radius: 35px;
+  width:20%;
+  height:auto;
+}
+
+.propic:hover{
+  border-radius: 35px;
+  width:20.2%;
+  height:auto;
+}
+
+
+.icons{
+  margin-right: 30px;
+  width:25px;
+  height:25px;
+
+}
+
+#foot-text{
+  font-size: 0.8em;
+  color:#393e46;
+}
