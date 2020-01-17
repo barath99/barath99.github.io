@@ -43,8 +43,8 @@
 }
 
 #pic1{
-  width: 16.33%;
-  height:auto;
+  width: 40vw;
+  max-width: 300px;
   margin-top: 5%;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -53,8 +53,7 @@
   display: block;
   width:80vw;
   max-width: 600px;
-  height:auto;
-  margin-top:calc()
+  margin-top:calc((100vh - 80vw/470*186)/4);
   margin-left: 5px;
 }
 
