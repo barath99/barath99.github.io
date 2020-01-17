@@ -1,5 +1,3 @@
-
-
 #top-content{
   padding: 2% ;
   margin-top: 40px;
@@ -25,7 +23,11 @@
 }
 
 .space1{
-  margin-top:30px;
+  margin-top:50px;
+}
+
+.col{
+  margin-top:20px;
 }
 
 .space2{
@@ -34,6 +36,7 @@
 
 .InsideBlue{
   color:#e3e3e3;
+  margin-left: 5%;
 }
 
 .InsideBlue2{
