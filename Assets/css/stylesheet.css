@@ -51,8 +51,10 @@
 }
 #pic2{
   display: block;
-  width:45%;
+  width:80vw;
+  max-width: 600px;
   height:auto;
+  margin-top:calc()
   margin-left: 5px;
 }
 
@@ -71,6 +73,7 @@
 .jumbotron{
   padding-top: 2em;
   padding-bottom: 0;
+  height:90vh;
 }
 
 
