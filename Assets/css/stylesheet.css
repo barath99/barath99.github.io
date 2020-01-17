@@ -41,12 +41,27 @@
 }
 .fill{
   height:88vh;
+  position: relative;
 }
-#pic1{
-  width: 40vw;
-  max-width: 200px;
-  margin-top: 25px;
+@media only screen and (max-width: 420px) {
+  #pic1{
+    width: 50vw;
+    max-width: 200px;
+    position: absolute;
+    bottom: 30px;
+    margin-left: -25vw;
+  }
 }
+@media only screen and (min-width: 420px) {
+  #pic1{
+    width: 200px;
+    position: relative;
+    bottom: -20px;
+    right: calc(100  - 100px);
+  }
+}
+
+
 #pic2{
   width:80vw;
   display: block;
