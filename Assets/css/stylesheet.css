@@ -1,6 +1,4 @@
-.vertcent{
-  padding-top: 45px;
-}
+
 
 #top-content{
   padding: 2% ;
@@ -44,16 +42,13 @@
 
 #pic1{
   width: 40vw;
-  max-width: 300px;
-  margin-top: 5%;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
+  max-width: 200px;
+  /*margin-top:calc((44vh - 40vw/300*400));*/
+  }
 #pic2{
-  display: block;
   width:80vw;
-  max-width: 600px;
-  margin-top:calc((100vh - 80vw/470*186)/4);
+  max-width: 500px;
+  margin-top:calc((88vh - 80vw/470*186)/4);
   margin-left: 5px;
 }
 
@@ -72,7 +67,7 @@
 .jumbotron{
   padding-top: 2em;
   padding-bottom: 0;
-  height:90vh;
+  height:88vh;
 }
 
 
