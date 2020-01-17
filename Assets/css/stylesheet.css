@@ -8,7 +8,7 @@
   background-color: #fafafa;
 }
 
-#mid-content{
+.mid-content{
   padding: 5% ;
   margin-top: 0;
   background-color: #fafafa;
@@ -20,7 +20,7 @@
   background-color: #474f86;
 }
 
-#deep-bottom-content{
+.deep-bottom-content{
   padding:10%;
   margin-top: 8px;
   background-color: #fafafa;
@@ -124,7 +124,7 @@ h3{
 
 .propic{
   border-radius: 35px;
-  width:20%;
+  width:80%;
   height:auto;
 }
 
