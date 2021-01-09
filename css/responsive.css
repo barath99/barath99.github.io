@@ -1,11 +1,26 @@
+/* if the viewport is equal to 1910px or less than that */ 
+@media only screen and (max-width: 1910px){
+    .header_area .main-menu .navbar{
+        padding: 1rem;
+    }
 
+    .container{
+        max-width: 90%;
+    }
 
-
-
+    .site-main .brand-area,
+    .site-main .services-area .services-title,
+    .site-main .about-area{
+        padding: 3% 4%;
+    }
+}
 
 
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 792px){
+    #head-section-image{
+        width: 30%;
+    }
     .site-main .about-area .about-title h2 > span{
         font-size: 31px;
         letter-spacing: 10px;
@@ -39,26 +54,6 @@
 }
 
 
-
-/* if the viewport is equal to 1910px or less than that */ 
-@media only screen and (max-width: 1910px){
-    .header_area .main-menu .navbar{
-        padding: 1rem;
-    }
-
-    .container{
-        max-width: 90%;
-    }
-
-    .site-main .brand-area,
-    .site-main .services-area .services-title,
-    .site-main .about-area{
-        padding: 3% 4%;
-    }
-
-
-}
-
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 415px){
     .header_area .main-menu .navbar,
@@ -80,9 +75,6 @@
         width: 15rem    !important;
     }
 
-    .site-main > .services-area .services{
-        width: 13rem;
-    }
     #head-section-image{
         display: none;
     }
@@ -99,8 +91,4 @@
         /* margin: 0; */
     }
 
-    .services{
-        padding: 0;
-        margin: 0;
-    }
 }
