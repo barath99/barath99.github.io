@@ -67,11 +67,15 @@
 }
 
 .site-main .site-banner .site-title h1{
-    font-size: 5rem;
+    font-size: 4.5rem;
 }
 
-.site-main .site-banner .site-title h4{
+.site-main .site-banner .site-title  h4{
     font-size: 1.5rem;
+}
+
+.site-main .site-banner .site-title  .subtitle{
+    font-size: 1.2rem;
 }
 
 .site-main .site-banner .banner-image > img{
@@ -304,7 +308,7 @@
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input{
-    width: 400px;
+    /* width: 400px; */
     padding: 1.5rem 1rem;
     border: 1px solid whitesmoke;
     background: transparent;
@@ -337,7 +341,7 @@ footer.footer-area .social h5{
 
 footer.footer-area .social a > i{
     font-size:22px;
-    padding: 2rem;
+    padding: 1.2rem;
     color: var(--border-color);
 }
 
